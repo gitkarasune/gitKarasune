@@ -11,7 +11,7 @@ I am a Self Taught learner as a Web3 Developer and I am looking out to get a job
 * 🚀  I'm currently working on [Hotel Booking Website](https://kara-bookings.surge.sh/)
 * 🧠  I'm currently learning Solidity, Web3.js, and Python Programming Language
 * 🤝  I'm open to collaborating on Other drone Projects
-* ⚡  I'm a Footballer and I love sports
+* ⚡  Loving Exercise : Football | Regular breaks and Exercise can help improve focus on energy levels.
 
 <a href="https://www.github.com/gitKarasune" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gitKarasune?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
