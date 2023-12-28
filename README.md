@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kara Sunebari
 =====================================================================================================================================
 
-Web Development | Builder | Front End Development | 
+Web Development | Builder | Front End Development | Research 
 --------------
 
 I am a Self Taught learner as a Web3 Developer and I am looking out to get a job.
@@ -9,7 +9,7 @@ I am a Self Taught learner as a Web3 Developer and I am looking out to get a job
 * 🌍  I'm based in Port Harcourt, Nigeria
 * ✉️  You can contact me at [sunebarikara@gmail.com](mailto:sunebarikara@gmail.com)
 * 🚀  I'm currently working on [Hotel Booking Website](https://kara-bookings.surge.sh/)
-* 🧠  I'm learning Solidity Web3.js
+* 🧠  I'm currently learning Solidity, Web3.js, and Python Programming Language
 * 🤝  I'm open to collaborating on Other drone Projects
 * ⚡  I'm a Footballer and I love sports
 
