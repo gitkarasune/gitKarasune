@@ -55,7 +55,7 @@
 ![Typscript](https://img.shields.io/badge/Typscript-Expert-blue)
 ![TaillwindCss](https://img.shields.io/badge/TaillwindCss-Expert-blue)
 ![css](https://img.shields.io/badge/css-Expert-blue)
-![Exprees](https://img.shields.io/badge/Exprees-Expert-blue)
+![Express](https://img.shields.io/badge/Express-Expert-blue)
 
 <!-- <br/> -->
 
