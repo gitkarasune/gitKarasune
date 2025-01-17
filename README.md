@@ -46,7 +46,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,typescript,html,tailwind,nextjs,css" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,typescript,html,tailwind,nextjs,css,bootstrap" width={100}/><br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![React](https://img.shields.io/badge/React-Expert-blue)
