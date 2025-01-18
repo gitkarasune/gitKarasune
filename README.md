@@ -27,6 +27,7 @@
 
  ## Interest span these and beyond 
 - AI Integration and Frontend Systems,
+- Responsive design,
 - Progressive Web Apps,
 - API Security and Authentication,
 - WebSocket & and Real-Time Applications,
