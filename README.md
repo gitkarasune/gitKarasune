@@ -25,13 +25,14 @@
    📬 You can contact me at: [Sunebarkara@gmail.com](mailto:Sunebarkara@gmail.com)
  </div>
 
- ## Interest includes 
+ ## Interest span these and beyond 
 - AI Integration and Frontend Systems,
 - Progressive Web Apps,
-- API Security,
-- Web socket, & and everything real-time
-- Web animations,
-- improving client side developer experience.
+- API Security and Authentication,
+- WebSocket & and Real-Time Applications,
+- Web Animations,
+- improving client-Side Developer Experience,
+- Exploring Emerging Frontend Tools and Trend,
 
 ## 🔗 Connect with me:
 <div align="start"> 
