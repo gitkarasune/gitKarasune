@@ -46,18 +46,13 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,typescript,html,tailwind,nextjs,css,git,mongodb,aws,firebase,vite,bootstrap" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=react,javascript,nodejs,vercel,express,typescript, python,html,tailwind,nextjs,css,git,kubernetes,mongodb,aws,firebase,vite,bootstrap,jest" width={100}/><br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![React](https://img.shields.io/badge/React-Expert-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Expert-yellow)
-![Nextjs](https://img.shields.io/badge/Nextjs-Expert-lightgrey)
+![Html](https://img.shields.io/badge/Html-Expert-blue)
 ![Typscript](https://img.shields.io/badge/Typscript-Expert-blue)
-![TaillwindCss](https://img.shields.io/badge/TaillwindCss-Expert-blue)
 ![css](https://img.shields.io/badge/css-Expert-blue)
-![Express](https://img.shields.io/badge/Express-Expert-blue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-blue)
-
+![Solidity](https://img.shields.io/badge/Solidity-Intermidiate-green)
 <!-- <br/> -->
 
 </div>
