@@ -42,12 +42,6 @@
 
 <!-- <hr/> -->
 
-## Top Languages and Frameworks
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,typescript,tailwind" width={100}/><br>
-</div>
-
 <h2 align="left">Languages & Tools ⚒️</h2>
 
 <div align="left">
