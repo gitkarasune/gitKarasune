@@ -47,12 +47,13 @@
 <div align="left">
 
 <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,vercel,express,typescript,python,html,tailwind,nextjs,css,git,kubernetes,mongodb,aws,firebase,vite,bootstrap,jest" width={100}/><br>
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![Html](https://img.shields.io/badge/Html-Expert-blue)
 ![Typscript](https://img.shields.io/badge/Typscript-Expert-blue)
 ![css](https://img.shields.io/badge/css-Expert-blue)
 ![Solidity](https://img.shields.io/badge/Solidity-Intermidiate-green)
 <!-- <br/> -->
-
 </div>
+
+[![Kara's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gitKarasune&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gitKarasune/github-readme-stats#gh-dark-mode-only)
+[![Kara's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gitKarasune&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/gitKarasune/github-readme-stats#gh-light-mode-only)
