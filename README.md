@@ -30,7 +30,7 @@
 - Responsive design,
 - Progressive Web Apps,
 - API Security and Authentication,
-- WebSocket & and Real-Time Applications,
+- WebSocket & Real-Time Applications,
 - Web Animations,
 - improving client-Side Developer Experience,
 - Exploring Emerging Frontend Tools and Trend,
