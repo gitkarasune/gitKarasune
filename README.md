@@ -42,7 +42,12 @@
 
 <!-- <hr/> -->
 
- 
+<h2 align="left">Top Languages and Frameworks</h2>
+<br/>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,typescript,html,tailwind" width={100}/><br>
+</div>
+
 <h2 align="left">Languages & Tools ⚒️</h2>
 <br/>
 
@@ -61,11 +66,5 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-blue)
 
 <!-- <br/> -->
-
-
-## Top Languages and Frameworks
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,typescript,html,tailwind" width={100}/><br>
 
 </div>
