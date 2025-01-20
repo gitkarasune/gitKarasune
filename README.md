@@ -13,7 +13,7 @@
  
   🔭 I’m currently **building a JSscript, where anyone can learn all about web development, AI, and others trending tech along in the space.**
   
-  🌱 I’m currently learning **Solidity**
+  🌱 I’m currently learning **Solidity** and **web3.js**
 
   👯 Computer Science Ethusiast, I'm open to collaborate on any Projects.
 
