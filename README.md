@@ -11,7 +11,7 @@
 
 <div align='start'>
  
-  🔭 I’m currently **building a JSscript, where anyone can learn all about web development, AI, and others trending tech along in the space.**
+  🔭 I’m currently **building a Stackrealm, where anyone can learn all about web development, AI, and others trending tech along in the space.**
   
   🌱 I’m currently learning **Solidity**
 
