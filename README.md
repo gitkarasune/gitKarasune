@@ -49,7 +49,6 @@
 <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,vercel,express,typescript,python,html,tailwind,nextjs,css,git,kubernetes,mongodb,aws,firebase,vite,bootstrap,jest" width={100}/><br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![Html](https://img.shields.io/badge/Html-Expert-blue)
-![Typscript](https://img.shields.io/badge/Typscript-Expert-blue)
 <!-- <br/> -->
 </div>
 
