@@ -50,7 +50,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![Html](https://img.shields.io/badge/Html-Expert-blue)
 ![Typscript](https://img.shields.io/badge/Typscript-Expert-blue)
-![css](https://img.shields.io/badge/css-Expert-blue)
 <!-- <br/> -->
 </div>
 
