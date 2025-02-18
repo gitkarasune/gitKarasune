@@ -13,7 +13,7 @@
  
   🔭 I’m currently **building at Stackrealm, where anyone can learn all about web development, AI, and others trending tech along in the space.**
   
-  🌱 I’m currently learning **Solidity**
+  🌱 I’m currently learning **Superbase**
 
   👯 Computer Science Ethusiast, I'm open to collaborate on any Projects either Frontend or Backend roles.
 
