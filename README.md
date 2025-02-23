@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="left">
-    Passionate FullStack Developer</h3>
+    Passionate FullStack software Developer</h3>
 <br/>
 
 <div align='start'>
