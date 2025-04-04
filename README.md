@@ -3,20 +3,34 @@
 <h1 align="left">
 <!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kara Sune+!;" /> -->
 <!--     Hi 👋 I'm Kara Sune -->
-    Hi there! 👋
+    👋 Hi there!
 </h1>
 
 <h3 align="left">
-    Passionate FullStack software Developer</h3>
+<!--     Passionate FullStack software Developer -->
+    **Passionate FullStack Software Developer**
+</h3>
 <br/>
 
 <div align='start'>
- 
-  🔭 I’m currently **building at Stackrealm, where anyone can learn all about web development, AI, and others trending tech along in the space.**
-  
-  🌱 I’m currently learning **Superbase ++**
 
-  👯 Computer Science Ethusiast, I'm open to collaborate on any Projects either Frontend or Backend roles.
+## 🔭 What I’m Currently Building
+Currently working on **Stackrealm** — an all-in-one learning hub where users can dive into:
+- Web Development
+- Artificial Intelligence
+- Emerging Tech Trends  
+With interactive tutorials, real-world projects, and gamified learning experiences.
+
+ ## 🔭 What I’m Currently Building 
+   Currently working on **Stackrealm** an all-in-one learning hub where users can dive INTO:
+   - Web Development
+   - Artificial Intelligence
+   - Emerging Tech Trends
+  With interactive tutorials, real-world projects, and gamified learning experiences.
+  
+  🌱 I’m Actively exploring **Superbase++**, tools for improving developer workflows
+
+  👯 Computer Science Ethusiast, I'm open to collaborate on any exciting Projects whether **Frontend** or **Backend** focused.
 
   💬 Ask me about **React, Javascript, Typescript, NodeJS/Express.js, NextJs, TailwindCss, Mongoose ..and more. **
 
@@ -24,6 +38,14 @@
 
    📬 You can contact me at: [karasune66@gmail.com](mailto:karasune66@gmail.com)
  </div>
+
+ ## Featured Project 🚀
+ 
+## Stackrealm
+Empowering the next generation of developers through an AI-powered learning platform.  
+At **Stackrealm**, anyone can explore web development, artificial intelligence, and the latest tech innovations—delivered in a way that’s engaging, practical, and beginner-friendly.
+
+---
 
  ## Interest span these and beyond 
 - AI Integration and Frontend Systems,
