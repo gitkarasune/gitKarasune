@@ -24,7 +24,7 @@
 
   👯 Computer Science Ethusiast, I'm open to collaborate on any exciting Projects whether **Frontend** or **Backend** focused.
 
-  💬 Ask me about **React, Javascript, Typescript, NodeJS/Express.js, NextJs, TailwindCss, Mongoose ..and more. **
+  💬 Ask me about **React**, **Javascript**, **Typescript**, **NodeJS/Express.js**, **NextJs**, **TailwindCss**, **Mongoose** and more..
 
   ⚡ Fun Fact **The first podcast network, Podshow, was founded in 2005 by Adam Curry and Ron Bloom.**
 
@@ -36,8 +36,6 @@
 ## Stackrealm
 Empowering the next generation of developers through an AI-powered learning platform.  
 At **Stackrealm**, anyone can explore web development, artificial intelligence, and the latest tech innovations—delivered in a way that’s engaging, practical, and beginner-friendly.
-
----
 
  ## Interest span these and beyond 
 - AI Integration and Frontend Systems,
