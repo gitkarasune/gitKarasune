@@ -10,16 +10,8 @@
 <!--     Passionate FullStack software Developer -->
     **Passionate FullStack Software Developer**
 </h3>
-<br/>
 
 <div align='start'>
-
-## 🔭 What I’m Currently Building
-Currently working on **Stackrealm** — an all-in-one learning hub where users can dive into:
-- Web Development
-- Artificial Intelligence
-- Emerging Tech Trends  
-With interactive tutorials, real-world projects, and gamified learning experiences.
 
  ## 🔭 What I’m Currently Building 
    Currently working on **Stackrealm** an all-in-one learning hub where users can dive INTO:
