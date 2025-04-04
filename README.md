@@ -17,7 +17,7 @@
 
   👯 Computer Science Ethusiast, I'm open to collaborate on any Projects either Frontend or Backend roles.
 
-  💬 Ask me about **React, Javascript, NodeJS/Express.js, NextJs, TailwindCss, Mongoose ..and more. **
+  💬 Ask me about **React, Javascript, Typescript, NodeJS/Express.js, NextJs, TailwindCss, Mongoose ..and more. **
 
   ⚡ Fun Fact **The first podcast network, Podshow, was founded in 2005 by Adam Curry and Ron Bloom.**
 
