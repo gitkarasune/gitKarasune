@@ -33,7 +33,6 @@
 
  ## Featured Project 🚀
  
-## Stackrealm
 Empowering the next generation of developers through an AI-powered learning platform.  
 At **Stackrealm**, anyone can explore web development, artificial intelligence, and the latest tech innovations—delivered in a way that’s engaging, practical, and beginner-friendly.
 
