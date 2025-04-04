@@ -21,7 +21,7 @@
 
   ⚡ Fun Fact **The first podcast network, Podshow, was founded in 2005 by Adam Curry and Ron Bloom.**
 
-   📬 You can contact me at: [Sunebarkara@gmail.com](mailto:Sunebarkara@gmail.com)
+   📬 You can contact me at: [karasune66@gmail.com](mailto:karasune66@gmail.com)
  </div>
 
  ## Interest span these and beyond 
