@@ -8,7 +8,7 @@
 
 <h3 align="left">
 <!--     Passionate FullStack software Developer -->
-    **Passionate FullStack Software Developer**
+    FullStack Frontend Engineer
 </h3>
 
 <div align='start'>
@@ -20,11 +20,11 @@
    - Emerging Tech Trends
   With interactive tutorials, real-world projects, and gamified learning experiences.
   
-  🌱 I’m Actively exploring **Superbase++**, tools for improving developer workflows
+  🌱 I’m Actively exploring **Superbase**, tools for improving developer workflows
 
   👯 Computer Science Ethusiast, I'm open to collaborate on any exciting Projects whether **Frontend** or **Backend** focused.
 
-  💬 Ask me about **React**, **Javascript**, **Typescript**, **NodeJS/Express.js**, **NextJs**, **TailwindCss**, **Mongoose** and more..
+  💬 Ask me about **React.js**, **Javascript**, **Typescript**, **Node.js**, **Next.js**, **TailwindCss** and more..
 
   ⚡ Fun Fact **The first podcast network, Podshow, was founded in 2005 by Adam Curry and Ron Bloom.**
 
