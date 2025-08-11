@@ -16,7 +16,7 @@
     
   🌱 I’m Actively exploring **Rust**
 
-  💬 Ask me about **Next.js**, **Javascript**, **Typescript**, **Node.js**, **React.js**, **Express** and more..
+   Ask me about **Next.js**, **Javascript**, **Typescript**, **Node.js**, **React.js**, **Express** and more..
 
    📬 You can contact me at: [karasune66@gmail.com](mailto:karasune66@gmail.com)
  </div>
@@ -39,20 +39,16 @@ I thrive in self-learning environments, enjoy collaborating with diverse teams, 
 - improving client-Side Developer Experience,
 - Exploring Emerging Frontend Tools and Trend,
 
-## 🔗 Connect with me:
+## Connect with me
 <div align="start"> 
     <p align="left"> <a href="https://www.linkedin.com/in/sune-kara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/_kendev?s=08" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
     
 </div>
 
-<!-- <hr/> -->
-
-<h2 align="left">Languages & Tools</h2>
-
+## Languages & Tools
 <div align="left">
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,redux,vite,typescript,nodejs,express,mongodb,git,github,python,nextjs,vercel,kubernetes,docker,aws,firebase,jest" width={100}/><br>
-<!-- <br/> -->
 </div>
 
 [![Kara's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gitKarasune&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gitKarasune/github-readme-stats#gh-dark-mode-only)
