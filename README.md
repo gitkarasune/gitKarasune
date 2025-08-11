@@ -12,29 +12,20 @@
 </h3>
 
 <div align='start'>
-
- ## 🔭 What I’m Currently Building 
-   Currently working on **Stackrealm** an all-in-one learning hub where users can dive INTO:
-   - Web Development
-   - Artificial Intelligence
-   - Emerging Tech Trends
-  With interactive tutorials, real-world projects, and gamified learning experiences.
-  
+  👯 Computer Science Ethusiast.
+    
   🌱 I’m Actively exploring **Rust**
 
-  👯 Computer Science Ethusiast.
-
   💬 Ask me about **Next.js**, **Javascript**, **Typescript**, **Node.js**, **React.js**, **Express** and more..
-
-  ⚡ Fun Fact **The first podcast network, Podshow, was founded in 2005 by Adam Curry and Ron Bloom.**
 
    📬 You can contact me at: [karasune66@gmail.com](mailto:karasune66@gmail.com)
  </div>
 
- ## Featured Project 🚀
+ ## Tools and Frameworks change, but fundamentals don't.
  
-Empowering the next generation of developers through an AI-powered learning platform.  
-At **Stackrealm**, anyone can explore web development, artificial intelligence, and the latest tech innovations—delivered in a way that’s engaging, practical, and beginner-friendly.
+With a solid grasp of the fundamentals and key programming concepts, I focus on progress over perfection.
+My approach is rooted in problem-solving, deep understanding, and creating solutions that go far beyond just writing code.
+I thrive in self-learning environments, enjoy collaborating with diverse teams, and believe that effective communication is just as important as technical skill. By continuously refining my craft, I ensure that every project is purposeful, efficient, and impactful.
 
  ## Interest span these and beyond 
 - AI Integration and Frontend Systems,
