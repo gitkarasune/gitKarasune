@@ -28,13 +28,14 @@ My approach is rooted in problem-solving, deep understanding, and creating solut
 I thrive in self-learning environments, enjoy collaborating with diverse teams, and believe that effective communication is just as important as technical skill. By continuously refining my craft, I ensure that every project is purposeful, efficient, and impactful.
 
  ## Interest span these and beyond 
-- AI Integration and Frontend Systems,
+- AI Integration + Frontend Systems,
 - Responsive design,
 - Progressive Web Apps,
 - API Security, Authentication, Integration and Development,
 - WebSocket & Real-Time Applications,
 - Cross-Browser & Device Testing,
 - Performance Optimization,
+- Python + Django Integration,
 - Web Animations,
 - improving client-Side Developer Experience,
 - Exploring Emerging Frontend Tools and Trend,
