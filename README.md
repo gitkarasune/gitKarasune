@@ -16,7 +16,7 @@
     
   🌱 I’m Actively exploring **Rust**
 
-   Ask me about **Next.js**, **Javascript**, **Typescript**, **Node.js**, **React.js**, **Express** and more..
+   Ask me about **Next.js**, **Javascript**, **Typescript**, **Python**, **Node.js**, **React.js**, **Express** and more..
 
    📬 You can contact me at: [karasune66@gmail.com](mailto:karasune66@gmail.com)
  </div>
