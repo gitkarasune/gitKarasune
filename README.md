@@ -50,7 +50,7 @@ I thrive in self-learning environments, enjoy collaborating with diverse teams, 
 ## Languages & Tools
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,vite,typescript,nodejs,express,mongodb,git,python,nextjs,vercel,docker,aws,firebase,jest, supabase, shadcn, django, rust" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,vite,typescript,nodejs,express,mongodb,git,python,nextjs,vercel,docker,aws,firebase,jest,supabase,django,rust" width={100}/><br>
 </div>
 
 [![Kara's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gitKarasune&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gitKarasune/github-readme-stats#gh-dark-mode-only)
