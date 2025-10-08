@@ -6,19 +6,12 @@
     👋 Hi there!
 </h1>
 
-<h3 align="left">
-<!--     Passionate FullStack software Developer -->
-    Web & Software Developer
-</h3>
+<div align="left">
+ some things here might be broken or half-baked. But hey, that's the fun of building! 🚀
+</div>
 
 <div align='start'>
-  👯 Computer Science Ethusiast.
-    
-  🌱 I’m Actively exploring **Rust**
-
-   Ask me about **Next.js**, **Javascript**, **Typescript**, **Python**, **Node.js**, **React.js**, **Express** and more..
-
-   📬 You can contact me at: [karasune66@gmail.com](mailto:karasune66@gmail.com)
+  
  </div>
 
  ## Tools and Frameworks change, but fundamentals don't.
