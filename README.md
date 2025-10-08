@@ -25,11 +25,6 @@ I thrive in self-learning environments, enjoy collaborating with diverse teams, 
 - improving client-Side Developer Experience,
 - Exploring Emerging Frontend Tools and Trend,
 
-### Connect with me
-<div align="start"> 
-    <p align="left"> <a href="https://www.linkedin.com/in/sune-kara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/_kendev?s=08" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-</div>
-
 ### Top Languages & Tools
 <div align="left">
 <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,nodejs,git,vercel,mongodb,docker" width={100}/><br>
