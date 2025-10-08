@@ -27,5 +27,6 @@ I thrive in self-learning environments, enjoy collaborating with diverse teams, 
 
 ### Top Languages & Tools
 <div align="left">
-<img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,nodejs,git,vercel,mongodb,docker" width={100}/><br>
+<!-- <img src="https://skillicons.dev/icons?=typescript,nextjs,tailwind,nodejs,git,vercel,mongodb,docker" width={100}/><br> -->
+    <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,nodejs,git,vercel,mongodb,docker" width="400" />
 </div>
