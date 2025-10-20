@@ -23,7 +23,7 @@
 - improving client-Side Developer Experience,
 - Exploring Emerging Frontend Tools and Trend,
 
-Explore my tech articles at [Kendev](https://karasune.vercel.app/posts)
+Explore my tech articles at [Karasune](https://karasune.vercel.app/posts)
 
 ### Tools and Frameworks change, but fundamentals don't.
  
