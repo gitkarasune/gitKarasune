@@ -8,7 +8,7 @@
 </div>
 
  ### About Me
- I'm a Web Engineer building fast, intelligent apps that people actually use, (Next.js) + Obsessed with speed & detail.
+ I'm a Software Engineer building fast, intelligent apps that people actually use, (Next.js) + Obsessed with speed & detail.
 
  ### Interest span these and beyond 
 - AI Integration + Frontend Systems,
