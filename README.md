@@ -2,13 +2,8 @@
     👋 Hi there!
 </h1>
 
-<div align="left">
- some things here might be broken or half-baked. But hey, that's the fun of building! 🚀
-
-</div>
-
  ### About Me
- I'm a Software Engineer building fast, intelligent apps that people actually use, (Next.js) + Obsessed with speed & detail.
+ I'm a Software Engineer and a tech leader driven by passion for building impactful products. I focus on creating AI-powered platforms, intelligent recommendation systems, and seamless real-time experiences. some things here might be broken or half-baked. But hey, that's the fun of building! 🚀 
 
  ### Interest span these and beyond 
 - AI Integration + Frontend Systems,
@@ -24,9 +19,3 @@
 - Exploring Emerging Frontend Tools and Trend,
 
 Explore my tech articles at [Karasune](https://karasune.vercel.app/posts)
-
-### Tools and Frameworks change, but fundamentals don't.
- 
-With a solid grasp of the fundamentals and key programming concepts, I focus on progress over perfection.
-My approach is rooted in problem-solving, deep understanding, and creating solutions that go far beyond just writing code.
-I thrive in self-learning environments, enjoy collaborating with diverse teams, and believe that effective communication is just as important as technical skill. By continuously refining my craft, I ensure that every project is purposeful, efficient, and impactful.
