@@ -1,7 +1,5 @@
-<h1 align="left">
-    👋 Hi there!
-</h1>
-
+👋 Hi there!
+    
  I'm a Software Engineer and a tech leader driven by passion for building impactful products. Focused on creating AI-powered platforms and everything real-time experiences.
  
  ### Interest span these and beyond 
