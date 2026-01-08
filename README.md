@@ -2,8 +2,8 @@
     👋 Hi there!
 </h1>
 
- I'm a Software Engineer and a tech leader driven by passion for building impactful products. I focus on creating AI-powered platforms, intelligent recommendation systems, and seamless real-time experiences. some things here might be broken or half-baked. But hey, that's the fun of building! 🚀 
-
+ I'm a Software Engineer and a tech leader driven by passion for building impactful products. Focused on creating AI-powered platforms and everything real-time experiences.
+ 
  ### Interest span these and beyond 
 - AI Integration + Frontend Systems,
 - Responsive design,
