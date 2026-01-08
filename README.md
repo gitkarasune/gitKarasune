@@ -1,4 +1,4 @@
-👋 Hi there!
+### 👋 Hi there!
     
  I'm a Software Engineer and a tech leader driven by passion for building impactful products. Focused on creating AI-powered platforms and everything real-time experiences.
  
