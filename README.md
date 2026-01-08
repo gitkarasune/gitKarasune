@@ -11,7 +11,7 @@
 - Cross-Browser & Device Testing,
 - Performance Optimization,
 - File Storage, Uploads & Admin Backend,
-- Web Animations,
+- Web Animations, 
 - improving client-Side Developer Experience,
 - Exploring Emerging Frontend Tools and Trend,
 
