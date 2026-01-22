@@ -9,7 +9,8 @@ I’m a Software Engineer and technical builder focused on creating impactful pr
 - AI integration across frontend and product systems  
 - Real-time applications (WebSockets, live updates, streaming experiences)  
 - Responsive and accessibility-first user interfaces  
-- Progressive Web Apps (PWAs)  
+- Progressive Web Apps (PWAs)
+- API with FastAPI  
 - API design, authentication, security, and integrations  
 - Cross-browser and cross-device compatibility testing  
 - Performance optimization and reliability improvements  
