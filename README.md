@@ -11,14 +11,12 @@ I enjoy working at the intersection of engineering, product, and performance, tu
 - AI integration across frontend and product systems  
 - Real-time applications (WebSockets, live updates, streaming experiences)  
 - Responsive and accessibility-first user interfaces  
-- Progressive Web Apps (PWAs)
+- Progressive Web Apps
 - API design, authentication, security, and integrations  
 - Cross-browser and cross-device compatibility testing  
 - Performance optimization and reliability improvements  
-- File storage, uploads, and admin backend systems  
 - Motion, micro-interactions, and web animations  
 - Improving client-side developer experience  
-- Exploring emerging frontend tools, patterns, and trends  
 
 ---
 
