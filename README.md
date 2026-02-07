@@ -1,8 +1,6 @@
 ### 👋 Hi, I’m Kara
 
-I’m a Software Engineer and technical builder focused on creating impactful products, with a strong interest in AI-powered platforms and real-time digital experiences. 
-
-I enjoy working at the intersection of engineering, product, and performance, turning ideas into scalable, reliable systems.
+I’m a Software Engineer and technical builder focused on creating impactful products, with a strong interest in AI-powered platforms and real-time digital experiences.
 
 ---
 
