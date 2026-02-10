@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Kara Sune
 
-Technical Builder / Thinker
+Technical Builder / Thinker building web & mobile platform
 
 ---
 
