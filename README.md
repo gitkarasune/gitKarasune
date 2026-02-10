@@ -1,10 +1,10 @@
-### 👋 Hi, I’m Kara
+### 👋 Hi, I’m Kara Sune
 
-Technical Builder/Thinker
+Technical Builder / Thinker
 
 ---
 
-### ... (and Beyond)
+### Beyond
 
 - AI integration across frontend and product systems  
 - Real-time applications (WebSockets, live updates, streaming experiences)  
@@ -19,5 +19,5 @@ Technical Builder/Thinker
 
 ### ✍️ Writing
 
-I share insights, experiments, and technical breakdowns on my blog:  
+Insights, experiments, and technical breakdowns on my blog:  
 👉 **[karasune.vercel.app/posts](https://karasune.vercel.app/posts)**
